@@ -9,3 +9,6 @@ Key Features
 Technical Stack
 1. Language: Python 3.14
 2. Libraries: random (Standard Library)
+
+Why I built this
+As I transition from Materials Science to Data Science, I wanted to move beyond simple data scripts and understand how to build structured systems. I chose an RPG simulation because it mirrors the Multi-agent Systems used in computational sciences.
