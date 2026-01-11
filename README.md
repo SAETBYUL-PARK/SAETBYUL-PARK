@@ -6,3 +6,7 @@ I am a curious professional transitioning from a background in **Materials Scien
 - 🔭 I’m currently working on: **Visualizing Real-time Climate Data using Python**
 - 🌱 I’m currently learning: **Machine Learning Algorithms**
 - 📫 How to reach me: [Your Email or LinkedIn Link]
+
+- Languages: Python (Primary), SQL, R (Learning)
+- Libraries: Pandas, NumPy, Matplotlib
+- Tools: Git, GitHub, VS Code
