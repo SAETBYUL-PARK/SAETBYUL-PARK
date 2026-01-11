@@ -7,5 +7,5 @@ Key Features
 4. Random Encounters: A variety of monsters (Slime, Goblin, Oak, Dragon) appear randomly, each with unique stats and rewards.
 
 Technical Stack
-1. Language: Python 3.x
+1. Language: Python 3.14
 2. Libraries: random (Standard Library)
